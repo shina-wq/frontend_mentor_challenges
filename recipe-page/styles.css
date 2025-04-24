@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    background-color: hsl(30, 54%, 90%);
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container {
+    max-width: 700px;
+    background: white;
+    border-radius: 12px;
+    padding: 25px;
+}
+.container img {
+    width: 100%;
+    border-radius: 8px;
+}
+.container h1 {
+    font-weight: bold;
+    margin-top: 15px;
+    font-family: 'Young Serif', serif;
+}
+.container h2 {
+    color: hsl(332, 51%, 32%);
+    font-family: 'Young Serif', serif
+}
+.container p {
+    color: hsl(30, 10%, 34%);
+    margin: 10px 0;
+    font-family: 'Outfit', sans-serif;
+}
+.prep-box {
+    background: hsl(330, 100%, 98%);
+    padding: 15px;
+    border-radius: 8px;
+}
+.prep-box h3 {
+    color: hsl(332, 51%, 32%);
+    font-size: 18px;
+    font-family: 'Young Serif', serif
+}
+ul, ol {
+    margin: 15px 0;
+    padding-left: 20px;
+    color: hsl(30, 10%, 34%);
+    font-family: 'Outfit', sans-serif;
+}
+li {
+    margin-bottom: 8px;
+    font-family: 'Outfit', sans-serif;
+}
+li span {
+    font-weight: bold;
+}
+table {
+    width: 100%;
+    margin-top: 15px;
+    border-collapse: collapse;
+}
+td {
+    padding: 10px;
+    border-bottom: 1px solid hsl(30, 20%, 80%);
+    color: hsl(14, 45%, 36%);
+    font-family: 'Outfit', sans-serif;
+}
+td span {
+    color: hsl(30, 10%, 34%);
+}
+
+.attribution { 
+    margin-top: 10px;
+    font-size: 12px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}

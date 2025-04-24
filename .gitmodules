@@ -1,0 +1,3 @@
+[submodule "Article-preview-component"]
+	path = Article-preview-component
+	url = https://github.com/shina-wq/Article-preview-component.git
