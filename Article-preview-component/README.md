@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub URL](https://github.com/shina-wq/Article-preview-component)
-- Live Site URL: [live site URL](https://article-preview-component-two-flame.vercel.app/)
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-using-html-css-and-javascript-4iXbW0JsAK)
+- Live Site URL: [live site URL](https://elegant-souffle-65ac43.netlify.app/)
 
 ## My process
 

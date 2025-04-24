@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub URL](https://github.com/shina-wq/social-links-card)
-- Live Site URL: [Live site URL](https://shina-wq.github.io/social-links-card/)
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-links-card-using-html5-and-css3-UKSkXLLAhC)
+- Live Site URL: [Live site URL](https://celadon-quokka-e71359.netlify.app/)
 
 ## My process
 

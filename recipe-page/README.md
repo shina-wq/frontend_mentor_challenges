@@ -9,15 +9,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Links
 
-- Solution URL: [GitHub URL](https://github.com/shina-wq/recipe-page)
-- Live Site URL: [live site URL](https://shina-wq.github.io/recipe-page/)
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-using-html-and-css-Mao__1PJwc)
+- Live Site URL: [live site URL](https://zingy-youtiao-3e1be2.netlify.app/)
 
 ## My process
 
@@ -33,11 +32,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Proper structuring of HTML elements for accessibility
 - Using Google Fonts (Young Serif and Outfit)
 - Centering elements with Flexbox
-
-## Author
-
-- Frontend Mentor - [@shina-wq](https://www.frontendmentor.io/home)
-- GitHub - [@shina-wq](https://github.com/shina-wq)
 
 ## Acknowledgments
 
