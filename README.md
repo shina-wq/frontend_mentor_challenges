@@ -24,6 +24,10 @@ Each challenge is organized in its own directory and typically includes:
 
 Where applicable, solutions are deployed and accessible via GitHub Pages or other platforms. Live links are included in each project's README.
 
+## 👤 My Frontend Mentor Profile
+
+You can view all my submitted solutions and ongoing progress on my [Frontend Mentor profile](https://www.frontendmentor.io/profile/shina-wq).
+
 ## 🌱 Learning in Progress
 
 This is a living repository. I'm continuously working on new challenges and updating past projects as I learn better practices and tools.
