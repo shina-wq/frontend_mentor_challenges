@@ -40,4 +40,6 @@ dismissButton.addEventListener("click", function () {
     successMessageContainer.style.display = "none";
 
     container.style.display = "block";
+
+    emailInput.value = "";
 });
